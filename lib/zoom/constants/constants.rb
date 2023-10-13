@@ -2,10 +2,11 @@
 
 require_relative 'account/options/pay_modes'
 require_relative 'account/settings/permitted_settings'
-require_relative 'meeting/approval_types'
+require_relative 'meeting/roles'
 require_relative 'meeting/audio_type'
 require_relative 'meeting/auto_recording'
 require_relative 'meeting/registration_types'
+require_relative 'meeting/roles'
 require_relative 'meeting/types'
 require_relative 'recurrence/monthly_weeks'
 require_relative 'recurrence/types'
